@@ -51,10 +51,13 @@ public class UserService {
 
     public boolean authUser(User user) {
 
-        if (user.getId() == null) {
-            return false;
-        }
+//        if (user.getId() == null) {
+//            return false;
+//        }
+
         if (isExistsThisUser(user) && !isAuthUser(user)) {
+            User dataBaseUser = userService.getUser(user.getEmail());
+            user.setId(dataBaseUser.getId());
             authMap.put(user.getId(), user);
             return true;
         }

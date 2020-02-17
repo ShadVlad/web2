@@ -26,7 +26,7 @@ public class User {
 
     @Override
     public int hashCode() {
-        return Objects.hash(getId(), getEmail(), getPassword());
+        return Objects.hash(getEmail(), getPassword());
     }
 
     public User(Long id, String email, String password) {

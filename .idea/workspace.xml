@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -44,7 +47,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="lessc" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -140,42 +143,50 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="1062" y="428" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581590990227" />
-    <state x="1398" y="416" key="#xdebugger.evaluate" timestamp="1581877381642">
+    <state x="1398" y="416" key="#xdebugger.evaluate" timestamp="1581937153628">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="1398" y="416" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1581877381642" />
-    <state width="1215" height="352" key="GridCell.Tab.0.bottom" timestamp="1581884620895">
+    <state x="1398" y="416" key="#xdebugger.evaluate/0.0.1920.1080@0.0.1920.1080" timestamp="1581937153628" />
+    <state x="1066" y="302" key="FileChooserDialogImpl" timestamp="1581938918058">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.0.center" timestamp="1581884620895">
+    <state x="1066" y="302" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581938918058" />
+    <state width="1215" height="352" key="GridCell.Tab.0.bottom" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.0.left" timestamp="1581884620895">
+    <state width="1215" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.0.center" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.0.right" timestamp="1581884620895">
+    <state width="1215" height="352" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.0.left" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.1.bottom" timestamp="1581884620895">
+    <state width="1215" height="352" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.0.right" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.1.center" timestamp="1581884620895">
+    <state width="1215" height="352" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.1.bottom" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.1.left" timestamp="1581884620895">
+    <state width="1215" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.1.center" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
-    <state width="1215" height="352" key="GridCell.Tab.1.right" timestamp="1581884620895">
+    <state width="1215" height="352" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.1.left" timestamp="1581937841799">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1215" height="352" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581884620895" />
+    <state width="1215" height="352" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state width="1215" height="352" key="GridCell.Tab.1.right" timestamp="1581937841799">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1215" height="352" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1581937841799" />
+    <state x="787" y="179" key="SettingsEditor" timestamp="1581938932007">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="787" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581938932007" />
     <state x="529" y="345" width="846" height="714" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1581869225776">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -210,14 +221,19 @@
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/servlet/LoginServlet.java</url>
-          <line>63</line>
-          <option name="timeStamp" value="79" />
+          <url>file://$PROJECT_DIR$/src/main/java/servlet/ApiServlet.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/service/UserService.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/service/UserService.java</url>
           <line>60</line>
-          <option name="timeStamp" value="81" />
+          <option name="timeStamp" value="87" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
